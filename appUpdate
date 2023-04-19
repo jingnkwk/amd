@@ -7,7 +7,7 @@
     "appPath": "",
     "appChangeLog": "1,修复部分图源章节列表出现乱码问题（酷漫屋）。<br>2,修复已知bug,提高稳定性。",
     "appMd5": "1776e07216c96137ec4089f3502bcffe",
-    "forceUpdate": 1,
+    "forceUpdate": 2,
     "topImage": "",
     "showUpdate": true,
   	"appName":"爱漫岛-1.0.8.apk"
